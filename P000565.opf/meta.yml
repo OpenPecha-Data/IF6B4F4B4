@@ -1,16 +1,17 @@
-id: opecha:P000565
+id: P000565
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W00KG07866
   title: སྔ་འགྱུར་དགེ་མང་དགོན་གྱི་གདན་རབས་དང་མཁན་དོན་གྲུབ་ཉི་མ་མཆོག་གི་མཛད་རྣམ་མདོར་བསྡུས
-  volume:
+  author: ''
+  volumes:
     8b0ced0a8a6945af8a00c648ba44f3f8:
       image_group_id: I00KG010253
       title: Volume 1 of snga 'gyur dge mang dgon gyi gdan rabs dang mkhan don grub
         nyi ma mchog gi mdzad rnam mdor bsdus
       volume_number: 1
       total_pages: 64
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: སྔ་འགྱུར་དགེ་མང་དགོན་གྱི་གདན་རབས་དང་མཁན་དོན་གྲུབ་ཉི་མ་མཆོག་གི་མཛད་རྣམ་མདོར་བསྡུས
   author: ''
